@@ -52,9 +52,15 @@ This project is an end-to-end data analytics internship project covering data cl
 ![Dashboard 2](https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-30%20012041.png)
 ![Executive Summary] (https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-31%20003305.png)
 
+## Live Dashboard
+
+🔗 [View Interactive Power BI Dashboard](https://bit.ly/4dT0F2P
+<img width="73" height="22" alt="image" src="https://github.com/user-attachments/assets/2333871b-2f8e-4592-9ae5-50d9bd2abdda" />
+)
+
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 Customer churn is driven by behavioral patterns including low engagement, mid-level tenure, and reduced product usage. Strategic focus on proactive engagement and feature adoption can significantly improve retention.
 
