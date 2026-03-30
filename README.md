@@ -48,7 +48,7 @@ This project is an end-to-end data analytics internship project covering data cl
 
 ## Dashboard Preview
 
-![Dashboard 1](Level-3/Dashboard/dashboard1.png)
+![Dashboard 1](https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-30%20011733.png)
 ![Dashboard 2](Level-3/Dashboard/dashboard2.png)
 
 ---
