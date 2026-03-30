@@ -50,7 +50,7 @@ This project is an end-to-end data analytics internship project covering data cl
 
 ![Dashboard 1](https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-30%20011733.png)
 ![Dashboard 2](https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-30%20012041.png)
-![Executive Summary] ()
+![Executive Summary] (https://github.com/chiemerieanekefrank/CodeVeda_Technologies_Internship_Project/blob/main/CodeVeda%20Technologies_Internship_Project/Level%203%20(Advanced)/Power%20BI%20Dashboard/Screenshot%202026-03-31%20003305.png)
 
 ---
 
