@@ -1,7 +1,7 @@
 # Customer Churn Analysis & Prediction Project
 
 ## Overview
-This project is an end-to-end data analytics internship project covering data cleaning, exploratory data analysis (EDA), machine learning, and dashboard development.
+This project demonstrates hands-on application of end-to-end data analytics workflows, from raw data processing to business insight generation and visualization.
 
 ## Objectives
 - Clean and preprocess raw datasets
@@ -16,8 +16,32 @@ This project is an end-to-end data analytics internship project covering data cl
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Google Colab
 - Power BI
-- GitHub
+- GitHub (Project documentation and version control)
 
+## Skills Developed
+
+Through this project, the following data analytics and technical skills were developed:
+
+### Data Processing & Analysis
+- Data cleaning and preprocessing using Python (Pandas)
+- Handling missing values, duplicates, and data inconsistencies
+- Exploratory Data Analysis (EDA) and data summarization
+
+### Data Visualization
+- Creating insightful visualizations using Matplotlib and Seaborn
+- Designing interactive dashboards in Power BI
+- Data storytelling and insight communication
+
+### Machine Learning
+- Regression analysis and model evaluation
+- Classification modeling (Logistic Regression, Decision Trees, Random Forest)
+- Clustering analysis using K-Means
+- Model evaluation using accuracy, precision, recall, and F1-score
+
+### Analytical Thinking
+- Identifying key business problems
+- Translating data into actionable insights
+- Interpreting model outputs and visual patterns
 ---
 
 ## Project Structure
@@ -55,7 +79,7 @@ This project is an end-to-end data analytics internship project covering data cl
 ## Live Dashboard
 
 🔗 [View Interactive Power BI Dashboard](https://bit.ly/4dT0F2P
-<img width="73" height="22" alt="image" src="https://github.com/user-attachments/assets/2333871b-2f8e-4592-9ae5-50d9bd2abdda" />
+<img width="149" height="22" alt="image" src="https://github.com/user-attachments/assets/9ccfd206-640c-43c0-9a38-04eb4acbaae7" />
 )
 
 ---
@@ -66,5 +90,5 @@ Customer churn is driven by behavioral patterns including low engagement, mid-le
 
 ---
 
-## 🔗 Author
-[Your Name]
+## Author
+[ANEKE CHIEMERIE FRANK]
